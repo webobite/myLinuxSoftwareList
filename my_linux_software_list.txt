@@ -1,0 +1,16 @@
+Firefox
+nodeJs
+Google Chrome
+Eclipse Java EE
+Python3
+Java Open JDK 11
+Git
+VS code
+    Panda Theme
+    Extension
+        VS Code Readme
+        MarkDown Preview
+        ESLint
+        GitLens
+        
+Postman
